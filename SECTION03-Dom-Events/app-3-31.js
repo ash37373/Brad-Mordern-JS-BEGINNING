@@ -4,7 +4,7 @@ const taskInput = document.getElementById("task");
 //Clear input
 taskInput.value = "";
 
-// form.addEventListener("submit", runEvent);
+form.addEventListener("submit", runEvent);
 
 //Keydown;
 // taskInput.addEventListener("keydown", runEvent);
